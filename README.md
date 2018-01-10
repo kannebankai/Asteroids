@@ -1,3 +1,4 @@
+[ENG]
 One of my university project for my second year of master was to code an Asteroids-like game using C++ and sfml. I got one month to do it and it was really funny and interesting to do it. All the assets are homemade so I apologize for the basic graphics and the music .If it annoys you, you can always stop it.
 
 
@@ -10,6 +11,7 @@ There are still bugs (all known bugs are listed in the readme of each version) a
 
 
 
+[FR]
 Un de mes projets universitaires pour ma deuxième année de master était de coder le jeu Asteroids en C++ et en utilisant sfml. J'avais un mois pour le faire et ce fut très amusant et intéressant à réaliser. Toutes les ressources sont faites maison donc je m'excuse si les graphismes basiques et la musique. Si elle vous importune, vous pouvez toujours l'arrêter.
 
 
