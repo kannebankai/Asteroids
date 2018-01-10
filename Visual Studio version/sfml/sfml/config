@@ -1,0 +1,7 @@
+icon:icon.png
+players:one
+input1:gamepad
+input2:keyboard
+network:false
+music:music.wav
+mouseSensibility:500
